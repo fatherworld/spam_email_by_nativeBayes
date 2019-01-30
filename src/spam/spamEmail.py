@@ -92,4 +92,4 @@ class spamEmailBayes:
                 rightCount+=1
             else:
                 errorCount+=1
-        return rightCount/(rightCount+errorCount)
+        return (float)(rightCount)/(float)(rightCount+errorCount))
