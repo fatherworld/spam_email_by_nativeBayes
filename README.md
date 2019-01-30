@@ -1,0 +1,2 @@
+# spam_email_by_nativeBayes
+通过朴素贝叶斯概率公式，进行垃圾邮件的分类预测
